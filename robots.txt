@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://amureiji.github.io/AQq/sitemap_index.txt
+Sitemap: https://amureiji.github.io/Guo/sitemap_index.txt
+Sitemap: https://amureiji.github.io/Tbq/sitemap_index.txt
+Sitemap: https://amureiji.github.io/nSI/sitemap_index.txt
